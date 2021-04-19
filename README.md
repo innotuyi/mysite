@@ -1,2 +1,2 @@
-This is simple web app that list food products. It is designed usingn django framwemowork
+This is simple web app that list food products. It is designed using django framework
 the link of this project is https://mysitesystem.herokuapp.com
